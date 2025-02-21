@@ -15,10 +15,9 @@ This project contains a **Power BI dashboard** that analyzes sales performance u
 ---
 
 ## 📂 Files in this Repository
-- `AdventureWorksDW.xlsx` – **Dataset used for analysis**.  
+- `AdventureWorks.xlsx` – **Dataset used for analysis**.  
 - `Power_BI Dashboard.pbix` – **Power BI dashboard file with interactive visualizations**.  
 - `README.md` – **Project documentation**.  
-- `Insights.pdf` – **Summary of findings and recommendations**.  
 - `Dashboard_Screenshots/` – **Screenshots of key dashboard insights**.  
 
 ---
