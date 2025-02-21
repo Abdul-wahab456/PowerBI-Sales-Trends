@@ -1,7 +1,7 @@
-# 🚀 AdventureWorks Sales Dashboard (Power BI)
+# 🚀 PowerBI-Sales-Trends
 
 ## 📌 Project Overview
-This project contains a **Power BI dashboard** that analyzes sales performance using the **AdventureWorks dataset**. The dashboard provides actionable insights into key business metrics, helping to identify trends, top-performing products, and customer demographics.
+This project contains a **Power BI dashboard** that analyzes sales performance using the **Sales-Trends dataset**. The dashboard provides actionable insights into key business metrics, helping to identify trends, top-performing products, and customer demographics.
 
 ---
 
